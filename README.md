@@ -1,2 +1,2 @@
-* Awesome-ios-animation
-# https://github.com/ameizi/awesome-ios-animation
+# Awesome-ios-animation
+- https://github.com/ameizi/awesome-ios-animation
